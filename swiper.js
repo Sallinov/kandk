@@ -12,7 +12,7 @@ window.onload = function() {
   });
 }
 $(window).resize(function() {
-  if(document.documentElement.clientWidth < 1000) {
+  if(document.documentElement.clientWidth > 1000) {
     $(".childe").click(function() {
     if($(this).hasClass("opened")) {
       $(this).removeClass("opened");
