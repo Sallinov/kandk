@@ -11,7 +11,7 @@ window.onload = function() {
     scr.off("mousemove");
   });
 }
-$(window).resize(function() {
+window.onload = function() {
   if(document.documentElement.clientWidth > 1000) {
     $(".childe").click(function() {
     if($(this).hasClass("opened")) {
