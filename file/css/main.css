@@ -381,8 +381,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	padding: 20px;
 }
 .childe div img{
-	width: calc(100% + 40px);
-	margin: -20px;
+	width: 100%;
 	z-index: 1;
 	border-radius: 8px 8px 0 0;
 	-moz-border-radius: 8px 8px 0 0;
