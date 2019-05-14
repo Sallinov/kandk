@@ -374,13 +374,15 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	text-align: left;
 }
 .childe div, .childe p{
-	padding: 10px;
 	position: relative;
 	height: auto;
 }
+.childe p{
+	padding: 20px;
+}
 .childe div img{
-	width: calc(100% + 20px);
-	margin: -10px;
+	width: calc(100% + 40px);
+	margin: -20px;
 	z-index: 1;
 	border-radius: 8px 8px 0 0;
 	-moz-border-radius: 8px 8px 0 0;
