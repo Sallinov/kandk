@@ -11,7 +11,7 @@ window.onload = function() {
     scr.off("mousemove");
   });
 }
-
+/*
 if ($(window).width() > 992) {
     $(".childe").click(function() {
     if($(this).hasClass("opened")) {
@@ -23,3 +23,4 @@ if ($(window).width() > 992) {
     }
     });
   }
+*/
