@@ -345,7 +345,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	display: inline-block;
 	display: -moz-inline-stack;
 	width: calc(70% + 60px);
-	height: 60vh;
+	height: 67vh;
 	vertical-align: middle;
 	overflow: hidden;
 	white-space: nowrap;
@@ -417,7 +417,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
   font-style: normal;
   font-weight: normal;
   line-height: normal;
-  font-size: 19px;
+  font-size: 0.95em;
   letter-spacing: 0.01em;
   color: #1E1E1E;
 }
@@ -427,7 +427,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
     position: absolute;
     bottom: 0;
     margin: 20px;
-    font-size: 19px;
+    font-size: 1.1em;
     font-weight: 600;
 }
 .opened{
