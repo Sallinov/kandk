@@ -351,7 +351,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	height: 0px;
 }
 .childe{
-	width: 35%;
+	width: 40%;
 	display: inline-block;
 	display: -moz-inline-stack;
   vertical-align: middle;
@@ -369,9 +369,14 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	text-align: left;
 }
 .childe div, .childe p{
-	height: calc(50% - 22px);
 	padding: 10px;
 	position: relative;
+}
+.childe div{
+	height: calc(60% - 22px);
+}
+.childe p{
+	height: calc(40% - 22px);
 }
 .childe div img{
 	width:100%;
