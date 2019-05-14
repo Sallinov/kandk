@@ -378,7 +378,8 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	height: auto;
 }
 .childe div img{
-	width:100%;
+	width: calc(100% + 20px);
+	margin: -10px;
 	z-index: 1;
 	border-radius: 8px 8px 0 0;
 	-moz-border-radius: 8px 8px 0 0;
@@ -387,8 +388,10 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 }
 .childe div h3{
 	z-index: 2;
-	position: relative;
+	position: absolute;
 	font-family: Open Sans;
+  top: 5px;
+  left: 5px;
   font-style: normal;
   font-weight: bold;
   line-height: normal;
