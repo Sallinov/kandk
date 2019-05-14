@@ -609,7 +609,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	}
 	.parent{
 		overflow-x: auto;
-		height: calc(70vh - 3px);
+		height: calc(80vh - 3px);
 	}
 	.item a{
 		font-size: 18px;
