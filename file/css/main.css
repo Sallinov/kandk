@@ -338,9 +338,8 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	display: -moz-inline-stack;
 	width: calc(80% + 60px);
 	height: 80vh;
-	vertical-align: middle;
-	overflow-x: hidden;
-	overflow-y: hidden;
+	vertical-align: bottom;
+	overflow: hidden;
 	white-space: nowrap;
 	position: relative;
 	overflow-y: scroll;
