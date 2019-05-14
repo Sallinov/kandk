@@ -392,7 +392,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
   font-style: normal;
   font-weight: bold;
   line-height: normal;
-  font-size: 36px;
+  font-size: 30px;
   letter-spacing: 0.01em;
   text-transform: uppercase;
   color: #fff;
@@ -406,7 +406,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
   font-style: normal;
   font-weight: normal;
   line-height: normal;
-  font-size: 24px;
+  font-size: 19px;
   letter-spacing: 0.01em;
   color: #1E1E1E;
 }
