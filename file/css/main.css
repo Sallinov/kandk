@@ -414,9 +414,13 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
   color: #1E1E1E;
 }
 .childe a{
- position: absolute;
- bottom: 0;
- margin: 20px;
+    color: #2c81ed;
+    text-decoration: none;
+    position: absolute;
+    bottom: 0;
+    margin: 20px;
+    font-size: 19px;
+    font-weight: 600;
 }
 .opened{
 	left: -20px;
