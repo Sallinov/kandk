@@ -263,7 +263,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
     letter-spacing: 0.01em;
     text-transform: uppercase;
     color: #1E1E1E;
-    margin: 0 0 35px 0;
+    margin: 0 0 20px 0;
 }
 .about p, .about ul {
     font-family: Open Sans;
