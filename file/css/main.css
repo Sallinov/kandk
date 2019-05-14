@@ -581,7 +581,8 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
     		left: 10px;
 	}
 	.childe p, form div input[type="text"], form div input[type="mail"]{
-		font-size: 13px;
+		 font-size: 11.5px;
+   		 padding: 5px 10px;
 	}
 	.childe a{
 		margin: 5px 10px;
