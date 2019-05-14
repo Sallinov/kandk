@@ -336,7 +336,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 .parent{
 	display: inline-block;
 	display: -moz-inline-stack;
-	width: calc(80% + 60px);
+	width: calc(70% + 60px);
 	height: 70vh;
 	vertical-align: bottom;
 	overflow: hidden;
