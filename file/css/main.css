@@ -601,6 +601,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	}
 	.parent{
 		overflow-x: auto;
+		height: calc(70vh - 3px);
 	}
 	.item a{
 		font-size: 18px;
@@ -656,7 +657,6 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		font-size: 15px;
 	}
 	.childe {
-		height: calc(80vh - 3px);
 		width: calc(100% - 4px);
 		margin: 0;
 	}
