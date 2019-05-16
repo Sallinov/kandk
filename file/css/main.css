@@ -621,6 +621,9 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	}
 }
 @media (max-width: 450px) {
+	div#about.tab:before.second{
+		height: auto;
+	}
 	.wraper{
 		text-align: center;
 		width: 96%;
