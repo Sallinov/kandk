@@ -621,7 +621,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	}
 }
 @media (max-width: 450px) {
-	div#about.tab:before.second{
+	div#about.tab.second:before{
 		height: auto;
 	}
 	.wraper{
