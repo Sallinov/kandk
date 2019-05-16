@@ -635,6 +635,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		margin-right: 0;
 	}
 	.parent{
+		vertical-align: bottom;
 		overflow-x: auto;
 		height: calc(80vh - 3px);
 		width: 95%;
