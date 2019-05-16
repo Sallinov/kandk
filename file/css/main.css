@@ -624,7 +624,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	div#about.tab.second:before, div#about.tab.second{
 		height: auto;
 		min-height: auto;
-		padding: 20px 0;
+		padding-top: 50px;
 	}
 	.wraper{
 		text-align: center;
