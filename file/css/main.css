@@ -594,7 +594,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
     		left: 10px;
 	}
 	.childe p, form div input[type="text"], form div input[type="mail"]{
-		 font-size: 11.5px;
+		 font-size: 15px;
    		 padding: 5px 10px;
 	}
 	.childe a{
@@ -622,6 +622,12 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	}
 	:-ms-input-placeholder{
 		font-size: 13px;
+	}
+}
+@media (max-width: 600px) {
+	.childe p, form div input[type="text"], form div input[type="mail"]{
+		 font-size: 12.5px;
+   		 padding: 5px 10px;
 	}
 }
 @media (max-width: 450px) {
