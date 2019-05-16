@@ -533,7 +533,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		height: 72vh;
 	}
 	.childe p {
-		font-size: 17.5px;
+		font-size: 17px;
 	}
 }
 @media (max-width: 1300px) {
@@ -541,7 +541,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		width: calc(43% - 40px);
 	}
 	.childe p {
-		font-size: 18.5px;
+		font-size: 22.5px;
 	}
 }
 @media (max-width: 1024px) {
