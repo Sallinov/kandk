@@ -345,17 +345,17 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	margin-left: -50px;
 }
 .parent{
-	display: inline-block;
-	display: -moz-inline-stack;
-	width: calc(70% + 60px);
-	height: 67vh;
-	vertical-align: middle;
-	overflow: hidden;
-	white-space: nowrap;
-	position: relative;
-	overflow-y: scroll;
-	scrollbar-width: none;
-	-ms-overflow-style: none;
+    display: inline-block;
+    display: -moz-inline-stack;
+    width: calc(70% + 60px);
+    height: 67vh;
+    vertical-align: middle;
+    overflow-x: scroll;
+    white-space: nowrap;
+    position: relative;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }
 .parent::-webkit-scrollbar {
   width: 0px;
