@@ -519,7 +519,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		font-size: 21px;
 	}
 }
-@media (max-width: 1400px) {
+@media (max-width: 1380px) {
 	.parent {
 		height: 72vh;
 	}
