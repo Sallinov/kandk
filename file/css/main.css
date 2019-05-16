@@ -626,6 +626,9 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		min-height: auto;
 		padding-top: 50px;
 	}
+	div#about.tab.second:before{
+		display: none;
+	}
 	.wraper{
 		text-align: center;
 		width: 96%;
