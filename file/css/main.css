@@ -516,7 +516,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		height: 60vh;
 	}
 	.childe p {
-		font-size: 21px;
+		font-size: 21.5px;
 	}
 }
 @media (max-width: 1380px) {
