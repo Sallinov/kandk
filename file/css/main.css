@@ -646,6 +646,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	}
 	.teammates{
 		display: none;
+		position: absolute;
 	}
 	.first h1 {
     font-size: 130px;
