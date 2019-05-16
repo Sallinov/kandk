@@ -510,7 +510,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	z-index: 2;
 	position: relative;
 }
-@media (max-width: 1450px) {
+@media (max-width: 1950px) {
 	.parent {
     		width: calc(90% + 60px);
 		height: 60vh;
