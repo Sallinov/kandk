@@ -516,7 +516,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		height: 64vh;
 	}
 	.childe p {
-		font-size: 22px;
+		font-size: 20.5px;
 	}
 }
 @media (max-width: 1450px) {
@@ -525,7 +525,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		height: 60vh;
 	}
 	.childe p {
-		font-size: 21px;
+		font-size: 19.5px;
 	}
 }
 @media (max-width: 1380px) {
@@ -533,7 +533,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		height: 72vh;
 	}
 	.childe p {
-		font-size: 19px;
+		font-size: 17.5px;
 	}
 }
 @media (max-width: 1300px) {
@@ -541,7 +541,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 		width: calc(43% - 40px);
 	}
 	.childe p {
-		font-size: 20px;
+		font-size: 18.5px;
 	}
 }
 @media (max-width: 1024px) {
