@@ -224,7 +224,7 @@ form div input[type="submit"]:hover,form div input[type="submit"]:focus,form div
 	background: url(../img/btelegram.svg) no-repeat;
 	background-size: cover;
 	width: 35px;
-    	height: 30px;
+    	height: 35px;
 }
 .vk:hover{
 	background: url(../img/vk.svg) no-repeat;
